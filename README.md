@@ -31,7 +31,7 @@ install it over this one.
 
 ### Install
 
-Copy `addons/vfx_2d/` into your project. Open `demo/demo.tscn` to try the effects.
+Copy `addons/vfx_2d/` into your project. Open `addons/vfx_2d/demo/demo.tscn` to try the effects.
 
 ### License
 
