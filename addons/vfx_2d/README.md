@@ -3,6 +3,10 @@
 16 animated 2D effects for Godot 4.3+ (Forward+, Mobile, Compatibility). Each is one shader drawn
 by one `VFX2D` node: no textures, no particles.
 
+**The full pack:** **[VFX 2D](https://heyheythere.itch.io/vfx-2d)** has all 16: shockwave, slash, sparkle, muzzle flash, dust, teleport,
+lightning, beam, portal, magic circle, shield and orb on top of these four. Same node, same code:
+install it over this one.
+
 ## Play one
 
 ```gdscript

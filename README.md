@@ -8,6 +8,12 @@ VFX2D.spawn(self, "explosion", enemy.global_position)
 VFX2D.spawn(self, "spark", hit_position, {color_mid = Color.CYAN})
 ```
 
+### Want more?
+
+**[VFX 2D](https://heyheythere.itch.io/vfx-2d)** has all 16: shockwave, slash, sparkle, muzzle flash, dust, teleport,
+lightning, beam, portal, magic circle, shield and orb on top of these four. Same node, same code:
+install it over this one.
+
 ### What's inside
 
 - **explosion**, **smoke** and **spark**: one-shots that play once and clean up after themselves.
@@ -16,12 +22,6 @@ VFX2D.spawn(self, "spark", hit_position, {color_mid = Color.CYAN})
 - **Pixel-art mode:** `VFX2D.default_pixel_size = 3` and the effects draw in crisp pixels with
   dithered edges.
 - Drop a VFX2D node in a scene and it previews itself in the editor.
-
-### Want more?
-
-**[VFX 2D](https://heyheythere.itch.io/vfx-2d)** has all 16: shockwave, slash, sparkle, muzzle flash, dust, teleport,
-lightning, beam, portal, magic circle, shield and orb on top of these four. Same node, same code:
-install it over this one.
 
 ### Compatibility
 
